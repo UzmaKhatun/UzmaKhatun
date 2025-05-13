@@ -45,6 +45,15 @@
 
 ---
 
+### ⚡ Fun GIF Time
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="250">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="250">
+</p>
+
+---
+
 ### 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uzma-khatun-88b990334/)
