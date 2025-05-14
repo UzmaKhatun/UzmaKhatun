@@ -32,7 +32,7 @@
 
 ## 📊 GitHub Stats :
 
-<img src="https://github-readme-stats.vercel.app/api?username=UzmaKhatun&show_icons=true&theme=github_dark" alt="GitHub Stats" />  <br>
+<img src="https://github-readme-stats.vercel.app/api?username=UzmaKhatun&show_icons=true&theme=github_dark" alt="GitHub Stats" /> <br>
 ![](https://nirzak-streak-stats.vercel.app/?user=UzmaKhatun&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=UzmaKhatun&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
