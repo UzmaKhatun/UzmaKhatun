@@ -38,7 +38,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=UzmaKhatun&show_icons=true&theme=github_dark" alt="GitHub Stats" /> <br>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=UzmaKhatun&theme=dark&hide_border=false)
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzlpOXhxc2w2a3JwOWx1cHhycmFsYnBsdzNpYWVya2NzdnRzczZlMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="350" alt="AI Coding GIF"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzlpOXhxc2w2a3JwOWx1cHhycmFsYnBsdzNpYWVya2NzdnRzczZlMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="AI Coding GIF"/>
 
 ---
 
